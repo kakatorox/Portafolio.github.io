@@ -1,2 +1,6 @@
 # Portafolio.github.io-
-Aca se almacenaran Los proyectos 
+## Este portafolio pertenece a Felipe Torres
+
+Ademas se REaliza Fork a 
+- Gino Salguero Ipinza 
+- Ivania Pérez
